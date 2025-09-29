@@ -1,0 +1,18 @@
+// Example SimpleLang Program
+// This demonstrates variable declarations, assignments, arithmetic, and conditionals
+
+int a;
+int b;
+int c;
+
+// Simple assignments
+a = 10;
+b = 20;
+
+// Arithmetic operation
+c = a + b;
+
+// Conditional statement
+if (c == 30) {
+    c = c + 1;
+}
